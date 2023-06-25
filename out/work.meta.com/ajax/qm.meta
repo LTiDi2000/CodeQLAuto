@@ -1,0 +1,40 @@
+url: https://work.meta.com/ajax/qm/?__a=1&__user=0&__comet_req=1&jazoest=2832
+parent: https://work.meta.com
+method: POST
+type: Ping
+
+> sec-ch-ua-platform: ""
+> Accept: */*
+> Origin: https://work.meta.com
+> sec-ch-ua-full-version-list: 
+> sec-ch-ua-mobile: ?0
+> sec-ch-ua: 
+> sec-ch-ua-platform-version: ""
+> Content-Type: application/x-www-form-urlencoded
+> Referer: https://work.meta.com/login/landing/
+> User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+> sec-ch-prefers-color-scheme: light
+
+< content-encoding: br
+< content-type: application/x-javascript; charset=utf-8
+< cross-origin-resource-policy: cross-origin
+< expires: Sat, 01 Jan 2000 00:00:00 GMT
+< pragma: no-cache
+< report-to: {"max_age":259200,"endpoints":[{"url":"https:\/\/work.meta.com\/ajax\/comet_error_reports\/?device_level=unknown"}]}
+< x-frame-options: DENY
+< x-content-type-options: nosniff
+< cache-control: private, no-cache, no-store, must-revalidate
+< cross-origin-opener-policy: same-origin-allow-popups
+< origin-agent-cluster: ?1
+< feature-policy: document-domain none
+< access-control-expose-headers: X-FB-Debug, X-Loader-Length
+< access-control-allow-methods: OPTIONS
+< access-control-allow-credentials: true
+< access-control-allow-origin: https://work.meta.com
+< vary: Origin
+< vary: Accept-Encoding
+< strict-transport-security: max-age=31536000; preload; includeSubDomains
+< x-fb-debug: 3qDorNpAdGHPKPG+Ht16C89cK3gDnQaJ2Bn5IWwuTWVVTENripDhud3K21WJn/90UW2Z43XGKvFFZcXDgTIvUg==
+< date: Sun, 25 Jun 2023 07:54:07 GMT
+< alt-svc: h3=":443"; ma=86400
+< priority: u=4,i

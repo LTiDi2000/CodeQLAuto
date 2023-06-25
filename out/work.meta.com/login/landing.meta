@@ -1,0 +1,37 @@
+url: https://work.meta.com/login/landing/
+parent: https://work.meta.com
+method: GET
+type: Document
+
+> Upgrade-Insecure-Requests: 1
+> User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+> sec-ch-ua: 
+> sec-ch-ua-mobile: ?0
+> sec-ch-ua-platform: ""
+> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+< vary: Accept-Encoding
+< content-encoding: br
+< critical-ch: Sec-CH-UA-Model
+< accept-ch-lifetime: 4838400
+< accept-ch: Sec-CH-Prefers-Color-Scheme,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version
+< report-to: {"max_age":259200,"endpoints":[{"url":"https:\/\/work.meta.com\/ajax\/comet_error_reports\/?device_level=unknown"}]}, {"max_age":3600,"endpoints":[{"url":"https:\/\/work.meta.com\/ajax\/comet_error_reports\/?device_level=unknown"}],"group":"network-errors"}
+< content-security-policy: default-src 'self' data: blob:;script-src 'self' work.meta.com *.work.meta.com *.fbcdn.net 'unsafe-inline' 'unsafe-eval' data:;style-src *.fbcdn.net 'unsafe-inline' data:;connect-src 'self' work.meta.com *.work.meta.com wss://gateway.work.meta.com https://api.mapbox.com https://*.tiles.mapbox.com;font-src *.fbcdn.net data:;img-src 'self' *.work.meta.com work.meta.com *.fbcdn.net blob: data: https://www.facebook.com/qr/show/code/;frame-src *.work.meta.com work.meta.com https://*.fbsbx.com/captcha/recaptcha/iframe/;block-all-mixed-content;upgrade-insecure-requests;
+< document-policy: force-load-at-top
+< permissions-policy: accelerometer=(), ambient-light-sensor=(), bluetooth=(), camera=(), gyroscope=(), hid=(), idle-detection=(), magnetometer=(), microphone=(), midi=(), payment=(), screen-wake-lock=(), serial=(), usb=()
+< cross-origin-resource-policy: same-origin
+< nel: {"report_to":"network-errors","max_age":3600,"failure_fraction":0.01}
+< cross-origin-opener-policy: same-origin-allow-popups
+< pragma: no-cache
+< cache-control: private, no-cache, no-store, must-revalidate
+< expires: Sat, 01 Jan 2000 00:00:00 GMT
+< x-content-type-options: nosniff
+< x-xss-protection: 0
+< x-frame-options: DENY
+< origin-agent-cluster: ?1
+< feature-policy: document-domain none
+< strict-transport-security: max-age=31536000; preload; includeSubDomains
+< content-type: text/html; charset="utf-8"
+< x-fb-debug: lkOoNRfB6uVeiCciXvGWSHBRwPyCxf8ZUJkweQGxq7Vi+y9ayjM7tuXY5aHVzMFiuVU8kE/Ut+s+FORWVe/geA==
+< date: Sun, 25 Jun 2023 07:54:04 GMT
+< alt-svc: h3=":443"; ma=86400

@@ -1,0 +1,30 @@
+url: https://static.xx.fbcdn.net/rsrc.php/v3izDy4/yd/l/en_US/Z_-pj3GoQwg.js?_nc_x=Ij3Wp8lg5Kz
+parent: https://work.meta.com
+method: GET
+type: Script
+
+> Accept: */*
+> Origin: https://work.meta.com
+> Referer: https://work.meta.com/
+> User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+> sec-ch-ua: 
+> sec-ch-ua-mobile: ?0
+> sec-ch-ua-platform: ""
+
+< vary: Accept-Encoding
+< content-encoding: br
+< content-type: application/x-javascript; charset=utf-8
+< access-control-allow-origin: *
+< last-modified: Mon, 01 Jan 2001 08:00:00 GMT
+< expires: Mon, 24 Jun 2024 02:28:15 GMT
+< cache-control: public,max-age=31536000,immutable
+< document-policy: force-load-at-top
+< permissions-policy: accelerometer=(), ambient-light-sensor=(), bluetooth=(), gyroscope=(), hid=(), idle-detection=(), magnetometer=(), midi=(), payment=(), screen-wake-lock=(), serial=(), usb=()
+< cross-origin-resource-policy: cross-origin
+< x-content-type-options: nosniff
+< timing-allow-origin: *
+< content-md5: 0ndXUHeOY9CRRXoL982Lrw==
+< x-fb-debug: prkKZuV8SQz+J2WfDXZHZkgLbO/wYsPEZNV5ye73Par0TvTQvWLvfRwvSPh5E+9Uh1DDg6JG+j+XNm/koPvGJg==
+< content-length: 125018
+< date: Sun, 25 Jun 2023 07:54:07 GMT
+< alt-svc: h3=":443"; ma=86400
